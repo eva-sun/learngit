@@ -1,3 +1,2 @@
-# Recode git operations 
+# git 
 Creating a new branch is quick.
-
